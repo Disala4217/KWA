@@ -1,0 +1,205 @@
+D:\WUSHU\kwa\bin\Debug\kwa.exe.config
+D:\WUSHU\kwa\bin\Debug\kwa.exe
+D:\WUSHU\kwa\bin\Debug\kwa.pdb
+D:\WUSHU\kwa\obj\Debug\kwa.csproj.AssemblyReference.cache
+D:\WUSHU\kwa\obj\Debug\kwa.csproj.SuggestedBindingRedirects.cache
+D:\WUSHU\kwa\obj\Debug\kwa.MainForm.resources
+D:\WUSHU\kwa\obj\Debug\kwa.Properties.Resources.resources
+D:\WUSHU\kwa\obj\Debug\kwa.csproj.GenerateResource.cache
+D:\WUSHU\kwa\obj\Debug\kwa.csproj.CoreCompileInputs.cache
+D:\WUSHU\kwa\obj\Debug\kwa.exe
+D:\WUSHU\kwa\obj\Debug\kwa.pdb
+D:\WUSHU\kwa\obj\Debug\kwa.Register_Form.resources
+D:\WUSHU\kwa\bin\Debug\Guna.UI2.dll
+D:\WUSHU\kwa\bin\Debug\MySql.Data.dll
+D:\WUSHU\kwa\bin\Debug\Google.Protobuf.dll
+D:\WUSHU\kwa\bin\Debug\ZstdNet.dll
+D:\WUSHU\kwa\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\WUSHU\kwa\bin\Debug\BouncyCastle.Crypto.dll
+D:\WUSHU\kwa\bin\Debug\Ubiety.Dns.Core.dll
+D:\WUSHU\kwa\bin\Debug\System.Memory.dll
+D:\WUSHU\kwa\bin\Debug\System.Buffers.dll
+D:\WUSHU\kwa\bin\Debug\K4os.Compression.LZ4.dll
+D:\WUSHU\kwa\bin\Debug\K4os.Hash.xxHash.dll
+D:\WUSHU\kwa\bin\Debug\MySql.Data.xml
+D:\WUSHU\kwa\obj\Debug\kwa.exe.config
+D:\WUSHU\kwa\obj\Debug\kwa.csproj.CopyComplete
+D:\WUSHU\kwa - Copy (2)\bin\Debug\kwa.exe.config
+D:\WUSHU\kwa - Copy (2)\bin\Debug\kwa.exe
+D:\WUSHU\kwa - Copy (2)\bin\Debug\kwa.pdb
+D:\WUSHU\kwa - Copy (2)\bin\Debug\Guna.UI2.dll
+D:\WUSHU\kwa - Copy (2)\bin\Debug\MySql.Data.dll
+D:\WUSHU\kwa - Copy (2)\bin\Debug\Google.Protobuf.dll
+D:\WUSHU\kwa - Copy (2)\bin\Debug\ZstdNet.dll
+D:\WUSHU\kwa - Copy (2)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\WUSHU\kwa - Copy (2)\bin\Debug\BouncyCastle.Crypto.dll
+D:\WUSHU\kwa - Copy (2)\bin\Debug\Ubiety.Dns.Core.dll
+D:\WUSHU\kwa - Copy (2)\bin\Debug\System.Memory.dll
+D:\WUSHU\kwa - Copy (2)\bin\Debug\System.Buffers.dll
+D:\WUSHU\kwa - Copy (2)\bin\Debug\K4os.Compression.LZ4.dll
+D:\WUSHU\kwa - Copy (2)\bin\Debug\K4os.Hash.xxHash.dll
+D:\WUSHU\kwa - Copy (2)\bin\Debug\MySql.Data.xml
+D:\WUSHU\kwa - Copy (2)\obj\Debug\kwa.csproj.AssemblyReference.cache
+D:\WUSHU\kwa - Copy (2)\obj\Debug\kwa.csproj.SuggestedBindingRedirects.cache
+D:\WUSHU\kwa - Copy (2)\obj\Debug\kwa.exe.config
+D:\WUSHU\kwa - Copy (2)\obj\Debug\kwa.MainForm.resources
+D:\WUSHU\kwa - Copy (2)\obj\Debug\kwa.manegeStudentForm.resources
+D:\WUSHU\kwa - Copy (2)\obj\Debug\kwa.Properties.Resources.resources
+D:\WUSHU\kwa - Copy (2)\obj\Debug\kwa.Register_Form.resources
+D:\WUSHU\kwa - Copy (2)\obj\Debug\kwa.csproj.GenerateResource.cache
+D:\WUSHU\kwa - Copy (2)\obj\Debug\kwa.csproj.CoreCompileInputs.cache
+D:\WUSHU\kwa - Copy (2)\obj\Debug\kwa.csproj.CopyComplete
+D:\WUSHU\kwa - Copy (2)\obj\Debug\kwa.exe
+D:\WUSHU\kwa - Copy (2)\obj\Debug\kwa.pdb
+D:\kwa - Copy (2)\bin\Debug\kwa.exe.config
+D:\kwa - Copy (2)\bin\Debug\kwa.exe
+D:\kwa - Copy (2)\bin\Debug\kwa.pdb
+D:\kwa - Copy (2)\bin\Debug\Guna.UI2.dll
+D:\kwa - Copy (2)\bin\Debug\MySql.Data.dll
+D:\kwa - Copy (2)\bin\Debug\Google.Protobuf.dll
+D:\kwa - Copy (2)\bin\Debug\ZstdNet.dll
+D:\kwa - Copy (2)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\kwa - Copy (2)\bin\Debug\BouncyCastle.Crypto.dll
+D:\kwa - Copy (2)\bin\Debug\Ubiety.Dns.Core.dll
+D:\kwa - Copy (2)\bin\Debug\System.Memory.dll
+D:\kwa - Copy (2)\bin\Debug\System.Buffers.dll
+D:\kwa - Copy (2)\bin\Debug\K4os.Compression.LZ4.dll
+D:\kwa - Copy (2)\bin\Debug\K4os.Hash.xxHash.dll
+D:\kwa - Copy (2)\bin\Debug\MySql.Data.xml
+D:\kwa - Copy (2)\obj\Debug\kwa.csproj.AssemblyReference.cache
+D:\kwa - Copy (2)\obj\Debug\kwa.csproj.SuggestedBindingRedirects.cache
+D:\kwa - Copy (2)\obj\Debug\kwa.exe.config
+D:\kwa - Copy (2)\obj\Debug\kwa.MainForm.resources
+D:\kwa - Copy (2)\obj\Debug\kwa.manegeStudentForm.resources
+D:\kwa - Copy (2)\obj\Debug\kwa.Properties.Resources.resources
+D:\kwa - Copy (2)\obj\Debug\kwa.Register_Form.resources
+D:\kwa - Copy (2)\obj\Debug\kwa.csproj.GenerateResource.cache
+D:\kwa - Copy (2)\obj\Debug\kwa.csproj.CoreCompileInputs.cache
+D:\kwa - Copy (2)\obj\Debug\kwa.csproj.CopyComplete
+D:\kwa - Copy (2)\obj\Debug\kwa.exe
+D:\kwa - Copy (2)\obj\Debug\kwa.pdb
+D:\New folder\kwa - Copy (2)\bin\Debug\kwa.exe.config
+D:\New folder\kwa - Copy (2)\bin\Debug\kwa.exe
+D:\New folder\kwa - Copy (2)\bin\Debug\kwa.pdb
+D:\New folder\kwa - Copy (2)\bin\Debug\Guna.UI2.dll
+D:\New folder\kwa - Copy (2)\bin\Debug\MySql.Data.dll
+D:\New folder\kwa - Copy (2)\bin\Debug\Google.Protobuf.dll
+D:\New folder\kwa - Copy (2)\bin\Debug\ZstdNet.dll
+D:\New folder\kwa - Copy (2)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\New folder\kwa - Copy (2)\bin\Debug\BouncyCastle.Crypto.dll
+D:\New folder\kwa - Copy (2)\bin\Debug\Ubiety.Dns.Core.dll
+D:\New folder\kwa - Copy (2)\bin\Debug\System.Memory.dll
+D:\New folder\kwa - Copy (2)\bin\Debug\System.Buffers.dll
+D:\New folder\kwa - Copy (2)\bin\Debug\K4os.Compression.LZ4.dll
+D:\New folder\kwa - Copy (2)\bin\Debug\K4os.Hash.xxHash.dll
+D:\New folder\kwa - Copy (2)\bin\Debug\MySql.Data.xml
+D:\New folder\kwa - Copy (2)\obj\Debug\kwa.csproj.AssemblyReference.cache
+D:\New folder\kwa - Copy (2)\obj\Debug\kwa.csproj.SuggestedBindingRedirects.cache
+D:\New folder\kwa - Copy (2)\obj\Debug\kwa.exe.config
+D:\New folder\kwa - Copy (2)\obj\Debug\kwa.MainForm.resources
+D:\New folder\kwa - Copy (2)\obj\Debug\kwa.manegeStudentForm.resources
+D:\New folder\kwa - Copy (2)\obj\Debug\kwa.Properties.Resources.resources
+D:\New folder\kwa - Copy (2)\obj\Debug\kwa.Register_Form.resources
+D:\New folder\kwa - Copy (2)\obj\Debug\kwa.csproj.GenerateResource.cache
+D:\New folder\kwa - Copy (2)\obj\Debug\kwa.csproj.CoreCompileInputs.cache
+D:\New folder\kwa - Copy (2)\obj\Debug\kwa.csproj.CopyComplete
+D:\New folder\kwa - Copy (2)\obj\Debug\kwa.exe
+D:\New folder\kwa - Copy (2)\obj\Debug\kwa.pdb
+D:\New folder\kwa - Copy (2)\obj\Debug\kwa.print_student.resources
+D:\New folder\kwa - Copy (3) - Copy\bin\Debug\kwa.exe.config
+D:\New folder\kwa - Copy (3) - Copy\bin\Debug\kwa.exe
+D:\New folder\kwa - Copy (3) - Copy\bin\Debug\kwa.pdb
+D:\New folder\kwa - Copy (3) - Copy\bin\Debug\Guna.UI2.dll
+D:\New folder\kwa - Copy (3) - Copy\bin\Debug\MySql.Data.dll
+D:\New folder\kwa - Copy (3) - Copy\bin\Debug\Google.Protobuf.dll
+D:\New folder\kwa - Copy (3) - Copy\bin\Debug\ZstdNet.dll
+D:\New folder\kwa - Copy (3) - Copy\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\New folder\kwa - Copy (3) - Copy\bin\Debug\BouncyCastle.Crypto.dll
+D:\New folder\kwa - Copy (3) - Copy\bin\Debug\Ubiety.Dns.Core.dll
+D:\New folder\kwa - Copy (3) - Copy\bin\Debug\System.Memory.dll
+D:\New folder\kwa - Copy (3) - Copy\bin\Debug\System.Buffers.dll
+D:\New folder\kwa - Copy (3) - Copy\bin\Debug\K4os.Compression.LZ4.dll
+D:\New folder\kwa - Copy (3) - Copy\bin\Debug\K4os.Hash.xxHash.dll
+D:\New folder\kwa - Copy (3) - Copy\bin\Debug\MySql.Data.xml
+D:\New folder\kwa - Copy (3) - Copy\obj\Debug\kwa.csproj.AssemblyReference.cache
+D:\New folder\kwa - Copy (3) - Copy\obj\Debug\kwa.csproj.SuggestedBindingRedirects.cache
+D:\New folder\kwa - Copy (3) - Copy\obj\Debug\kwa.exe.config
+D:\New folder\kwa - Copy (3) - Copy\obj\Debug\kwa.MainForm.resources
+D:\New folder\kwa - Copy (3) - Copy\obj\Debug\kwa.manegeStudentForm.resources
+D:\New folder\kwa - Copy (3) - Copy\obj\Debug\kwa.print_student.resources
+D:\New folder\kwa - Copy (3) - Copy\obj\Debug\kwa.Properties.Resources.resources
+D:\New folder\kwa - Copy (3) - Copy\obj\Debug\kwa.Register_Form.resources
+D:\New folder\kwa - Copy (3) - Copy\obj\Debug\kwa.csproj.GenerateResource.cache
+D:\New folder\kwa - Copy (3) - Copy\obj\Debug\kwa.csproj.CoreCompileInputs.cache
+D:\New folder\kwa - Copy (3) - Copy\obj\Debug\kwa.csproj.CopyComplete
+D:\New folder\kwa - Copy (3) - Copy\obj\Debug\kwa.exe
+D:\New folder\kwa - Copy (3) - Copy\obj\Debug\kwa.pdb
+D:\New folder\kwa - Copy (3) - Copy\obj\Debug\kwa.class_registation.resources
+D:\New folder\kwa - Copy (4) - Copy - Copy\bin\Debug\kwa.exe.config
+D:\New folder\kwa - Copy (4) - Copy - Copy\bin\Debug\kwa.exe
+D:\New folder\kwa - Copy (4) - Copy - Copy\bin\Debug\kwa.pdb
+D:\New folder\kwa - Copy (4) - Copy - Copy\bin\Debug\Guna.UI2.dll
+D:\New folder\kwa - Copy (4) - Copy - Copy\bin\Debug\MySql.Data.dll
+D:\New folder\kwa - Copy (4) - Copy - Copy\bin\Debug\Google.Protobuf.dll
+D:\New folder\kwa - Copy (4) - Copy - Copy\bin\Debug\ZstdNet.dll
+D:\New folder\kwa - Copy (4) - Copy - Copy\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\New folder\kwa - Copy (4) - Copy - Copy\bin\Debug\BouncyCastle.Crypto.dll
+D:\New folder\kwa - Copy (4) - Copy - Copy\bin\Debug\Ubiety.Dns.Core.dll
+D:\New folder\kwa - Copy (4) - Copy - Copy\bin\Debug\System.Memory.dll
+D:\New folder\kwa - Copy (4) - Copy - Copy\bin\Debug\System.Buffers.dll
+D:\New folder\kwa - Copy (4) - Copy - Copy\bin\Debug\K4os.Compression.LZ4.dll
+D:\New folder\kwa - Copy (4) - Copy - Copy\bin\Debug\K4os.Hash.xxHash.dll
+D:\New folder\kwa - Copy (4) - Copy - Copy\bin\Debug\MySql.Data.xml
+D:\New folder\kwa - Copy (4) - Copy - Copy\obj\Debug\kwa.csproj.AssemblyReference.cache
+D:\New folder\kwa - Copy (4) - Copy - Copy\obj\Debug\kwa.csproj.SuggestedBindingRedirects.cache
+D:\New folder\kwa - Copy (4) - Copy - Copy\obj\Debug\kwa.exe.config
+D:\New folder\kwa - Copy (4) - Copy - Copy\obj\Debug\kwa.class_registation.resources
+D:\New folder\kwa - Copy (4) - Copy - Copy\obj\Debug\kwa.MainForm.resources
+D:\New folder\kwa - Copy (4) - Copy - Copy\obj\Debug\kwa.manegeStudentForm.resources
+D:\New folder\kwa - Copy (4) - Copy - Copy\obj\Debug\kwa.print_student.resources
+D:\New folder\kwa - Copy (4) - Copy - Copy\obj\Debug\kwa.Properties.Resources.resources
+D:\New folder\kwa - Copy (4) - Copy - Copy\obj\Debug\kwa.Register_Form.resources
+D:\New folder\kwa - Copy (4) - Copy - Copy\obj\Debug\kwa.csproj.GenerateResource.cache
+D:\New folder\kwa - Copy (4) - Copy - Copy\obj\Debug\kwa.csproj.CoreCompileInputs.cache
+D:\New folder\kwa - Copy (4) - Copy - Copy\obj\Debug\kwa.csproj.CopyComplete
+D:\New folder\kwa - Copy (4) - Copy - Copy\obj\Debug\kwa.exe
+D:\New folder\kwa - Copy (4) - Copy - Copy\obj\Debug\kwa.pdb
+D:\New folder\kwa - Copy (4) - Copy - Copy\obj\Debug\kwa.manege_class.resources
+D:\New folder\kwa - Copy (4) - Copy - Copy\obj\Debug\kwa.attendence.resources
+D:\New folder\kwa - Copy (4) - Copy - Copy\obj\Debug\kwa.classprint.resources
+D:\New folder\kwa - Copy (4) - Copy - Copy\obj\Debug\kwa.login.resources
+D:\New folder\kwa - Copy (4) - Copy - Copy\obj\Debug\kwa.splashscreen.resources
+D:\New folder\kwa - Copy (9) - Copy - Copy - Copy\bin\Debug\kwa.exe.config
+D:\New folder\kwa - Copy (9) - Copy - Copy - Copy\bin\Debug\kwa.exe
+D:\New folder\kwa - Copy (9) - Copy - Copy - Copy\bin\Debug\kwa.pdb
+D:\New folder\kwa - Copy (9) - Copy - Copy - Copy\bin\Debug\Guna.UI2.dll
+D:\New folder\kwa - Copy (9) - Copy - Copy - Copy\bin\Debug\MySql.Data.dll
+D:\New folder\kwa - Copy (9) - Copy - Copy - Copy\bin\Debug\Google.Protobuf.dll
+D:\New folder\kwa - Copy (9) - Copy - Copy - Copy\bin\Debug\ZstdNet.dll
+D:\New folder\kwa - Copy (9) - Copy - Copy - Copy\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\New folder\kwa - Copy (9) - Copy - Copy - Copy\bin\Debug\BouncyCastle.Crypto.dll
+D:\New folder\kwa - Copy (9) - Copy - Copy - Copy\bin\Debug\Ubiety.Dns.Core.dll
+D:\New folder\kwa - Copy (9) - Copy - Copy - Copy\bin\Debug\System.Memory.dll
+D:\New folder\kwa - Copy (9) - Copy - Copy - Copy\bin\Debug\System.Buffers.dll
+D:\New folder\kwa - Copy (9) - Copy - Copy - Copy\bin\Debug\K4os.Compression.LZ4.dll
+D:\New folder\kwa - Copy (9) - Copy - Copy - Copy\bin\Debug\K4os.Hash.xxHash.dll
+D:\New folder\kwa - Copy (9) - Copy - Copy - Copy\bin\Debug\MySql.Data.xml
+D:\New folder\kwa - Copy (9) - Copy - Copy - Copy\obj\Debug\kwa.csproj.AssemblyReference.cache
+D:\New folder\kwa - Copy (9) - Copy - Copy - Copy\obj\Debug\kwa.csproj.SuggestedBindingRedirects.cache
+D:\New folder\kwa - Copy (9) - Copy - Copy - Copy\obj\Debug\kwa.exe.config
+D:\New folder\kwa - Copy (9) - Copy - Copy - Copy\obj\Debug\kwa.attendence.resources
+D:\New folder\kwa - Copy (9) - Copy - Copy - Copy\obj\Debug\kwa.classprint.resources
+D:\New folder\kwa - Copy (9) - Copy - Copy - Copy\obj\Debug\kwa.class_registation.resources
+D:\New folder\kwa - Copy (9) - Copy - Copy - Copy\obj\Debug\kwa.login.resources
+D:\New folder\kwa - Copy (9) - Copy - Copy - Copy\obj\Debug\kwa.MainForm.resources
+D:\New folder\kwa - Copy (9) - Copy - Copy - Copy\obj\Debug\kwa.manege_class.resources
+D:\New folder\kwa - Copy (9) - Copy - Copy - Copy\obj\Debug\kwa.manegeStudentForm.resources
+D:\New folder\kwa - Copy (9) - Copy - Copy - Copy\obj\Debug\kwa.print_student.resources
+D:\New folder\kwa - Copy (9) - Copy - Copy - Copy\obj\Debug\kwa.Properties.Resources.resources
+D:\New folder\kwa - Copy (9) - Copy - Copy - Copy\obj\Debug\kwa.Register_Form.resources
+D:\New folder\kwa - Copy (9) - Copy - Copy - Copy\obj\Debug\kwa.splashscreen.resources
+D:\New folder\kwa - Copy (9) - Copy - Copy - Copy\obj\Debug\kwa.csproj.GenerateResource.cache
+D:\New folder\kwa - Copy (9) - Copy - Copy - Copy\obj\Debug\kwa.csproj.CoreCompileInputs.cache
+D:\New folder\kwa - Copy (9) - Copy - Copy - Copy\obj\Debug\kwa.csproj.CopyComplete
+D:\New folder\kwa - Copy (9) - Copy - Copy - Copy\obj\Debug\kwa.exe
+D:\New folder\kwa - Copy (9) - Copy - Copy - Copy\obj\Debug\kwa.pdb
